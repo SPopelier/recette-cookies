@@ -1,4 +1,4 @@
 #Ignorer tous les fichiers de l'IDE
 .vscode/
-
+.password-prod
  
